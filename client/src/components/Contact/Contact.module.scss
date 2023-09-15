@@ -1,0 +1,13 @@
+.contact{
+    background-color:blue;
+    color:white;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+
+    .wrapper{
+        width:50%;
+        display: flex;
+        justify-content: space-between;
+    }
+}

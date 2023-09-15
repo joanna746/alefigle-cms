@@ -1,0 +1,26 @@
+.futuredProduct{
+    margin:100px 200px;
+
+    .top{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 50px;
+        gap:50px;
+        h1{
+            flex:2;
+            font-family: sans-serif;
+            
+
+        }
+        p{
+            font-family: sans-serif;
+            line-height: 30px;
+        }
+    }
+    .bottom{
+        display: flex;
+        justify-content: center;
+        gap:50px;
+    }
+}
